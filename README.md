@@ -1,4 +1,4 @@
-# example-opencensus-stackdriver-custom-metrics
+# opencensus-stackdriver-custom-metrics-example
 
 App uses OpenCensus which is an open source project from code that Google open sourced. In the Stackdriver docs, it's mentioned as a way to help with custom metrics. You hook up "exporters" to it to get the metric data points into different systems. In this case, I'm using a Stackdriver exporter so it sends them using the Stackdriver API. They will all show up as "global" resource in Stackdriver Metrics.
 
