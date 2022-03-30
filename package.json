@@ -13,6 +13,6 @@
   "dependencies": {
     "@opencensus/core": "0.0.10",
     "@opencensus/exporter-stackdriver": "0.0.10",
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   }
 }
