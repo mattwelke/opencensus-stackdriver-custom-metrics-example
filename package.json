@@ -12,7 +12,7 @@
   "license": "UNLICENSE",
   "dependencies": {
     "@opencensus/core": "0.0.10",
-    "@opencensus/exporter-stackdriver": "0.0.10",
+    "@opencensus/exporter-stackdriver": "0.1.0",
     "express": "^4.16.4"
   }
 }
